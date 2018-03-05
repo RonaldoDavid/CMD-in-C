@@ -2,4 +2,4 @@
 
 I was bored and I did this in C
 
-![Ronaldo David](http://cdn-smartr.rf.gd/img/ej.JPG)
+![Terminal Screenshot](http://cdn-smartr.rf.gd/img/ej.JPG)
